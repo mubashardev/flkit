@@ -1,5 +1,5 @@
 name: flkit
-description: "FlKit is a CLI tool to export Flutter projects as zip files. More features like code optimization coming soon! 🚀"
+description: "FlKit is a CLI tool to export Flutter projects as zip files. More features like code optimization coming soon!"
 version: 0.0.1
 homepage: https://mubashar.dev
 repository: https://github.com/mubashardev/flkit.git
